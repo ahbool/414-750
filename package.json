@@ -1,0 +1,26 @@
+{
+  "name": "414to750",
+  "version": "1.0.0",
+  "description": "将设计稿为414px对应的rem值转换为更高清的750px对应的rem值",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+      "414to750": "index.js"
+  },
+  "keywords": ["rem", "414", "750", "414转750"],
+  "author": "Ahbool",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahbool/414to750/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahbool/414to750.git"
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  }
+}

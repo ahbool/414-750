@@ -1,0 +1,19 @@
+.a {
+    margin-top:.54348rem;
+    margin: 0 5px 3.4rem 5.3rem;
+    color:#b7b7b7;
+    font-size:.2rem;
+}
+
+.a .aa {
+    padding: .5rem;
+    border:.14rem solid #ccc;
+    background: #fff;
+}
+
+.a .aa .aaa{
+    color:#989898;
+    margin-bottom: .36rem;
+}
+
+.a .aa .aaa .aaaa{width:10px; left: -.3rem; flex: 1;}
